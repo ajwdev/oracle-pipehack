@@ -13,11 +13,11 @@ You'll need the following succesfully use the script:
 
 1. A copy of the Oracle 10/11g installation files
 
-[http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html]
+http://www.oracle.com/technetwork/database/enterprise-edition/downloads/index.html
 
 2. A working "Response File" for your version of Oracle
 
-[http://docs.oracle.com/cd/B28359_01/gateways.111/b31043/advance.htm]
+http://docs.oracle.com/cd/B28359_01/gateways.111/b31043/advance.htm
 
 3. A working copy of Ruby. The script was tested against versions 1.8.7 and 1.9.3
 
